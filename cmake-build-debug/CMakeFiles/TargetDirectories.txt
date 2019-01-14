@@ -1,0 +1,3 @@
+C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/cmake-build-debug/CMakeFiles/anit_aircraft_base.dir
+C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/cmake-build-debug/CMakeFiles/rebuild_cache.dir
