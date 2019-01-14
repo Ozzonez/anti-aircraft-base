@@ -1,10 +1,11 @@
 #ifndef ANIT_AIRCRAFT_BASE_AA_35MM_H
 #define ANIT_AIRCRAFT_BASE_AA_35MM_H
-#define "Gun.h"
+#include "Gun.h"
+#include <iostream>
+using namespace std;
 
-
-class AA_35mm {
-    char position; // N, E, W or S
+class AA_35mm: public Gun{
+    string position; // N, E, W or S
     int overheating_lvl;
     int ammo_amount;
     bool functioning;

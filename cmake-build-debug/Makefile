@@ -149,6 +149,33 @@ AA_35mm.cpp.s:
 	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AA_35mm.cpp.s
 .PHONY : AA_35mm.cpp.s
 
+AA_80mm.obj: AA_80mm.cpp.obj
+
+.PHONY : AA_80mm.obj
+
+# target to build an object file
+AA_80mm.cpp.obj:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AA_80mm.cpp.obj
+.PHONY : AA_80mm.cpp.obj
+
+AA_80mm.i: AA_80mm.cpp.i
+
+.PHONY : AA_80mm.i
+
+# target to preprocess a source file
+AA_80mm.cpp.i:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AA_80mm.cpp.i
+.PHONY : AA_80mm.cpp.i
+
+AA_80mm.s: AA_80mm.cpp.s
+
+.PHONY : AA_80mm.s
+
+# target to generate assembly for a file
+AA_80mm.cpp.s:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AA_80mm.cpp.s
+.PHONY : AA_80mm.cpp.s
+
 AM_Shield.obj: AM_Shield.cpp.obj
 
 .PHONY : AM_Shield.obj
@@ -215,6 +242,9 @@ help:
 	@echo ... AA_35mm.obj
 	@echo ... AA_35mm.i
 	@echo ... AA_35mm.s
+	@echo ... AA_80mm.obj
+	@echo ... AA_80mm.i
+	@echo ... AA_80mm.s
 	@echo ... AM_Shield.obj
 	@echo ... AM_Shield.i
 	@echo ... AM_Shield.s
