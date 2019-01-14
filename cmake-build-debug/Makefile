@@ -122,6 +122,33 @@ anit_aircraft_base/fast:
 	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/build
 .PHONY : anit_aircraft_base/fast
 
+AA_35mm.obj: AA_35mm.cpp.obj
+
+.PHONY : AA_35mm.obj
+
+# target to build an object file
+AA_35mm.cpp.obj:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AA_35mm.cpp.obj
+.PHONY : AA_35mm.cpp.obj
+
+AA_35mm.i: AA_35mm.cpp.i
+
+.PHONY : AA_35mm.i
+
+# target to preprocess a source file
+AA_35mm.cpp.i:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AA_35mm.cpp.i
+.PHONY : AA_35mm.cpp.i
+
+AA_35mm.s: AA_35mm.cpp.s
+
+.PHONY : AA_35mm.s
+
+# target to generate assembly for a file
+AA_35mm.cpp.s:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AA_35mm.cpp.s
+.PHONY : AA_35mm.cpp.s
+
 AM_Shield.obj: AM_Shield.cpp.obj
 
 .PHONY : AM_Shield.obj
@@ -185,6 +212,9 @@ help:
 	@echo ... anit_aircraft_base
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... AA_35mm.obj
+	@echo ... AA_35mm.i
+	@echo ... AA_35mm.s
 	@echo ... AM_Shield.obj
 	@echo ... AM_Shield.i
 	@echo ... AM_Shield.s
