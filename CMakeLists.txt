@@ -3,4 +3,4 @@ project(anit_aircraft_base)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(anit_aircraft_base main.cpp)
+add_executable(anit_aircraft_base main.cpp Gun.h)

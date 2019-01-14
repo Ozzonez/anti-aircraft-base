@@ -82,6 +82,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Gun.h">
+			<Option target="anit_aircraft_base"/>
+		</Unit>
 		<Unit filename="C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/main.cpp">
 			<Option target="anit_aircraft_base"/>
 		</Unit>
