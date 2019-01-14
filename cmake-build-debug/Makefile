@@ -122,6 +122,33 @@ anit_aircraft_base/fast:
 	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/build
 .PHONY : anit_aircraft_base/fast
 
+AM_Shield.obj: AM_Shield.cpp.obj
+
+.PHONY : AM_Shield.obj
+
+# target to build an object file
+AM_Shield.cpp.obj:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.obj
+.PHONY : AM_Shield.cpp.obj
+
+AM_Shield.i: AM_Shield.cpp.i
+
+.PHONY : AM_Shield.i
+
+# target to preprocess a source file
+AM_Shield.cpp.i:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.i
+.PHONY : AM_Shield.cpp.i
+
+AM_Shield.s: AM_Shield.cpp.s
+
+.PHONY : AM_Shield.s
+
+# target to generate assembly for a file
+AM_Shield.cpp.s:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.s
+.PHONY : AM_Shield.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +185,9 @@ help:
 	@echo ... anit_aircraft_base
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... AM_Shield.obj
+	@echo ... AM_Shield.i
+	@echo ... AM_Shield.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
