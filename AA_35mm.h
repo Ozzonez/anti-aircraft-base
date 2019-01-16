@@ -5,7 +5,7 @@
 using namespace std;
 
 class AA_35mm: public Gun{
-    string position; // N, E, W or S
+    char position; // N, E, W or S
     int overheating_lvl;
     int ammo_amount;
     bool functioning;
