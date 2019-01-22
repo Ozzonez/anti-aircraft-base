@@ -1,0 +1,10 @@
+#ifndef ANIT_AIRCRAFT_BASE_RADAR_H
+#define ANIT_AIRCRAFT_BASE_RADAR_H
+
+
+class Radar {
+
+};
+
+
+#endif //ANIT_AIRCRAFT_BASE_RADAR_H

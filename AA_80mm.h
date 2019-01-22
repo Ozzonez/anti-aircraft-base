@@ -6,12 +6,7 @@
 using namespace std;
 
 class AA_80mm: public Gun {
-    string position; // N, E, W or S
-    int overheating_lvl;
-    int ammo_amount;
-    bool functioning;
-    int active_lock;
-    int health;
+
 public:
 
     virtual int askToShoot(int); //returns alert about overheating

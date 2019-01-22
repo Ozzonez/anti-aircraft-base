@@ -5,11 +5,7 @@
 using namespace std;
 
 class AA_35mm: public Gun{
-    char position; // N, E, W or S
-    int overheating_lvl;
-    int ammo_amount;
-    bool functioning;
-    int active_lock;
+
 public:
     virtual void askToShoot();
     virtual void reload();

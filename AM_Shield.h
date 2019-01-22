@@ -3,9 +3,7 @@
 #include "Gun.h"
 
 class AM_Shield: public Gun{
-    int overheating_lvl;
-    int ammo_amount;
-    bool functioning;
+
 public:
     virtual void askToShoot();
     virtual void reload();
