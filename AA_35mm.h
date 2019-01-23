@@ -9,6 +9,7 @@ class AA_35mm: public Gun{
 public:
     virtual void askToShoot();
     virtual void reload();
+    AA_35mm(int, int, int, char);
 };
 
 

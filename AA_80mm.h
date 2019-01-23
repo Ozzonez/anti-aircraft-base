@@ -9,10 +9,9 @@ class AA_80mm: public Gun {
 
 public:
 
-    virtual int askToShoot(int); //returns alert about overheating
+    virtual void askToShoot();
     virtual void reload();
-
-    //getter ammo amount is alerting about taken damage
+    AA_80mm(int, int, int, char);
 };
 
 

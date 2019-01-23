@@ -7,6 +7,7 @@ class AM_Shield: public Gun{
 public:
     virtual void askToShoot();
     virtual void reload();
+    AM_Shield(int, int, int, char);
 
 };
 
