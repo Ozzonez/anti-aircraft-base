@@ -35,7 +35,7 @@ void Radar::Simulation(Manager *M) {
 
         if(aggressive==0&&i==8&&manned==0&&weapon==0)
         {
-            cout<<" Flying object has turned back"<<endl;
+            cout<<endl<<" Flying object has turned back"<<endl;
             break;
         }
 
@@ -46,6 +46,7 @@ void Radar::Simulation(Manager *M) {
             cout<<endl<<"object destroyed"<<endl;
             break;
         }
+
         sleep(1);
     }
 

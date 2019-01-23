@@ -20,6 +20,7 @@ public:
     int getFunctioning();
     int getHealth();
 
+    void setOverheating_lvl(int);
     void setHealth(int);
     void setAmmo_amount(int);
     void setFunctioning(int);

@@ -53,3 +53,7 @@ int Gun::getFunctioning()
 int Gun::getHealth() {
     return health;
 }
+
+void Gun::setOverheating_lvl(int a) {
+    overheating_lvl=a;
+}

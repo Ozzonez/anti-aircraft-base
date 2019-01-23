@@ -82,6 +82,12 @@ int Recognition::DangerRecognition(int weapon, int size, char direction, int man
         for (int i = 0; i < M->getSize(); i++) {
             if (direction == M->getGun(i)->getPosition() && M->getGun(i)->getFunctioning() == 1 && M->getGun(i)->getType() == type) {
                 M->getGun(i)->askToShoot();
+                if(M->getGun(i)->getType()==1)
+                    cout<<endl<<"Firing AA 35mm gun";
+                if(M->getGun(i)->getType()==2)
+                    cout<<endl<<"Firing AA 80mm gun";
+                if(M->getGun(i)->getType()==3)
+                    cout<<endl<<"Launching missile from AM Shield";
                 temp = 1;
             }
 
