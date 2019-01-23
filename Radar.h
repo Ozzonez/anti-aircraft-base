@@ -6,7 +6,7 @@
 class Radar {
 
 public:
-    void Radar(Manager*);
+    void Simulation(Manager*);
 };
 
 

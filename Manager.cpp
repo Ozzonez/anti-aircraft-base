@@ -56,19 +56,19 @@ void Manager::writeGuns()  {
         {
             cout <<"AA 35mm gun";
             cout<<endl<<"Condition: "<<(guns[i]->getHealth()/100)*100<<"%"<<endl;
-            cout<<"Ammunition: "<<(guns[i]->getAmmo()/1000)*100<<"%"<<endl;
+            cout<<"Ammunition: "<<(guns[i]->getAmmo()*100/1000)<<"%"<<endl;
         }
         else if(guns[i]->getType()==2)
         {
             cout<<"AA 80mm gun";
             cout<<endl<<"Condition: "<<(guns[i]->getHealth()/150)*100<<"%"<<endl;
-            cout<<"Ammunition: "<<(guns[i]->getAmmo()/100)*100<<"%"<<endl;
+            cout<<"Ammunition: "<<(guns[i]->getAmmo()*100/100)<<"%"<<endl;
         }
         else if(guns[i]->getType()==3)
         {
             cout <<"Anti-missile shield";
             cout<<endl<<"Condition: "<<(guns[i]->getHealth()/300)*100<<"%"<<endl;
-            cout<<"Ammunition: "<<(guns[i]->getAmmo()/5)*100<<"%"<<endl;
+            cout<<"Ammunition: "<<(guns[i]->getAmmo()*100/5)<<"%"<<endl;
         }
 
         cout<<"Facing direction: "<<guns[i]->getPosition()<<endl;

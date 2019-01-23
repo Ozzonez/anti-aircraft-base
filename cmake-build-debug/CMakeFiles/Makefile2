@@ -70,7 +70,7 @@ CMAKE_BINARY_DIR = C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircra
 CMakeFiles/anit_aircraft_base.dir/all:
 	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/depend
 	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Built target anit_aircraft_base"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10 "Built target anit_aircraft_base"
 .PHONY : CMakeFiles/anit_aircraft_base.dir/all
 
 # Include target in all.
@@ -80,7 +80,7 @@ all: CMakeFiles/anit_aircraft_base.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/anit_aircraft_base.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\cmake-build-debug\CMakeFiles 11
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\cmake-build-debug\CMakeFiles 10
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/anit_aircraft_base.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/anit_aircraft_base.dir/rule

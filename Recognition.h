@@ -1,10 +1,10 @@
 #ifndef ANIT_AIRCRAFT_BASE_RECOGNITION_H
 #define ANIT_AIRCRAFT_BASE_RECOGNITION_H
-
+#include "Manager.h"
 
 class Recognition {
 public:
-    int DangerRecognition(int, int, int)
+    int DangerRecognition(int, int, char, int, Manager*, int);
 };
 
 

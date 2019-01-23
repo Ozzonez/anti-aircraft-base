@@ -8,7 +8,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj"
   "CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.obj"
   "CMakeFiles/anit_aircraft_base.dir/Menu.cpp.obj"
-  "CMakeFiles/anit_aircraft_base.dir/F16.cpp.obj"
   "anit_aircraft_base.pdb"
   "anit_aircraft_base.exe"
   "anit_aircraft_base.exe.manifest"

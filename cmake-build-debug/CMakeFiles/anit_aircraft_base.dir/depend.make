@@ -23,10 +23,24 @@ CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj: ../Gun.h
 CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj: ../Manager.cpp
 CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj: ../Manager.h
 
+CMakeFiles/anit_aircraft_base.dir/Menu.cpp.obj: ../Gun.h
+CMakeFiles/anit_aircraft_base.dir/Menu.cpp.obj: ../Manager.h
+CMakeFiles/anit_aircraft_base.dir/Menu.cpp.obj: ../Menu.cpp
+CMakeFiles/anit_aircraft_base.dir/Menu.cpp.obj: ../Menu.h
+
+CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.obj: ../Gun.h
+CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.obj: ../Manager.h
+CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.obj: ../Recognition.cpp
+CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.obj: ../Recognition.h
+
 CMakeFiles/anit_aircraft_base.dir/main.cpp.obj: ../Gun.h
 CMakeFiles/anit_aircraft_base.dir/main.cpp.obj: ../Manager.h
+CMakeFiles/anit_aircraft_base.dir/main.cpp.obj: ../Radar.h
 CMakeFiles/anit_aircraft_base.dir/main.cpp.obj: ../main.cpp
 
+CMakeFiles/anit_aircraft_base.dir/radar.cpp.obj: ../Gun.h
+CMakeFiles/anit_aircraft_base.dir/radar.cpp.obj: ../Manager.h
 CMakeFiles/anit_aircraft_base.dir/radar.cpp.obj: ../Radar.cpp
 CMakeFiles/anit_aircraft_base.dir/radar.cpp.obj: ../Radar.h
+CMakeFiles/anit_aircraft_base.dir/radar.cpp.obj: ../Recognition.h
 

@@ -100,12 +100,6 @@
 		<Unit filename="C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/AM_Shield.h">
 			<Option target="anit_aircraft_base"/>
 		</Unit>
-		<Unit filename="C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/F16.cpp">
-			<Option target="anit_aircraft_base"/>
-		</Unit>
-		<Unit filename="C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/F16.h">
-			<Option target="anit_aircraft_base"/>
-		</Unit>
 		<Unit filename="C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Gun.cpp">
 			<Option target="anit_aircraft_base"/>
 		</Unit>

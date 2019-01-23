@@ -203,33 +203,6 @@ AM_Shield.cpp.s:
 	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.s
 .PHONY : AM_Shield.cpp.s
 
-F16.obj: F16.cpp.obj
-
-.PHONY : F16.obj
-
-# target to build an object file
-F16.cpp.obj:
-	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/F16.cpp.obj
-.PHONY : F16.cpp.obj
-
-F16.i: F16.cpp.i
-
-.PHONY : F16.i
-
-# target to preprocess a source file
-F16.cpp.i:
-	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/F16.cpp.i
-.PHONY : F16.cpp.i
-
-F16.s: F16.cpp.s
-
-.PHONY : F16.s
-
-# target to generate assembly for a file
-F16.cpp.s:
-	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/F16.cpp.s
-.PHONY : F16.cpp.s
-
 Gun.obj: Gun.cpp.obj
 
 .PHONY : Gun.obj
@@ -410,9 +383,6 @@ help:
 	@echo ... AM_Shield.obj
 	@echo ... AM_Shield.i
 	@echo ... AM_Shield.s
-	@echo ... F16.obj
-	@echo ... F16.i
-	@echo ... F16.s
 	@echo ... Gun.obj
 	@echo ... Gun.i
 	@echo ... Gun.s
