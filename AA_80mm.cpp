@@ -1,6 +1,6 @@
 #include "AA_80mm.h"
 
-AA_80mm::AA_80mm(int ammo, int t, int h, char p) : Gun(100, 2, 150, p){}
+AA_80mm::AA_80mm(int ammo, int t, int h, char p) : Gun(ammo, t, h, p){};
 
 void AA_80mm::askToShoot() {
     Gun::ammo_amount=Gun::ammo_amount-10;

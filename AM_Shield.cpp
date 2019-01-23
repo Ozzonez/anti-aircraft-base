@@ -1,6 +1,6 @@
 #include "AM_Shield.h"
 
-AM_Shield::AM_Shield(int ammo, int t, int h, char p) : Gun(5, 3, 300, p){}
+AM_Shield::AM_Shield(int ammo, int t, int h, char p) : Gun(ammo, t, h, p){};
 
 AM_Shield::askToShoot() {
     Gun::ammo_amount=Gun::ammo_amount-1;

@@ -230,6 +230,33 @@ Gun.cpp.s:
 	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Gun.cpp.s
 .PHONY : Gun.cpp.s
 
+Manager.obj: Manager.cpp.obj
+
+.PHONY : Manager.obj
+
+# target to build an object file
+Manager.cpp.obj:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj
+.PHONY : Manager.cpp.obj
+
+Manager.i: Manager.cpp.i
+
+.PHONY : Manager.i
+
+# target to preprocess a source file
+Manager.cpp.i:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Manager.cpp.i
+.PHONY : Manager.cpp.i
+
+Manager.s: Manager.cpp.s
+
+.PHONY : Manager.s
+
+# target to generate assembly for a file
+Manager.cpp.s:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Manager.cpp.s
+.PHONY : Manager.cpp.s
+
 Radar.obj: Radar.cpp.obj
 
 .PHONY : Radar.obj
@@ -305,6 +332,9 @@ help:
 	@echo ... Gun.obj
 	@echo ... Gun.i
 	@echo ... Gun.s
+	@echo ... Manager.obj
+	@echo ... Manager.i
+	@echo ... Manager.s
 	@echo ... Radar.obj
 	@echo ... Radar.i
 	@echo ... Radar.s

@@ -13,6 +13,12 @@ CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.obj: ../AM_Shield.cpp
 CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.obj: ../AM_Shield.h
 CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.obj: ../Gun.h
 
+CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj: ../AA_35mm.h
+CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj: ../AM_Shield.h
+CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj: ../Gun.h
+CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj: ../Manager.cpp
+CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj: ../Manager.h
+
 CMakeFiles/anit_aircraft_base.dir/gun.cpp.obj: ../Gun.cpp
 CMakeFiles/anit_aircraft_base.dir/gun.cpp.obj: ../Gun.h
 

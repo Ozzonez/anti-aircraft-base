@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/anit_aircraft_base.dir/AA_80mm.cpp.obj"
   "CMakeFiles/anit_aircraft_base.dir/Radar.cpp.obj"
   "CMakeFiles/anit_aircraft_base.dir/Gun.cpp.obj"
+  "CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj"
   "anit_aircraft_base.pdb"
   "anit_aircraft_base.exe"
   "anit_aircraft_base.exe.manifest"

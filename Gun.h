@@ -13,10 +13,12 @@ public:
     virtual void askToShoot()=0;
     virtual void reload()=0;
     //virtual void coolDown()=0;
-    char getPosition(); // returns position of a gun
-    int getOverheating_lvl(); // returns level of overheating in percents
-    int getAmmo_amount(); // returns amount of ammo left in a gun
-    int getType(); // returns the type of the gun
+    char getPosition();
+    int getOverheating_lvl();
+    int getAmmo();
+    int getType();
+    int getFunctioning();
+    int getHealth();
 
     void setHealth(int);
     void setAmmo_amount(int);
