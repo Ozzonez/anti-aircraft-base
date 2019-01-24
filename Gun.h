@@ -12,18 +12,18 @@ protected:
 public:
     virtual void askToShoot()=0;
     virtual void reload()=0;
-    //virtual void coolDown()=0;
+
     char getPosition();
     int getOverheating_lvl();
     int getAmmo();
     int getType();
     int getFunctioning();
-    int getHealth();
+
 
     void setOverheating_lvl(int);
+    void setAmmo(int);
     void setHealth(int);
-    void setAmmo_amount(int);
-    void setFunctioning(int);
+
     Gun(int, int, int, char);
 };
 #endif //ANIT_AIRCRAFT_BASE_GUN_H

@@ -49,6 +49,7 @@ void Radar::Simulation(Manager *M) {
 
         sleep(1);
     }
+    sleep(2);
 
 
 

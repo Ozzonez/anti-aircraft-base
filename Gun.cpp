@@ -1,19 +1,6 @@
 #include "Gun.h"
 
-void Gun::setHealth(int a)
-{
-    health=a;
-}
 
-void Gun::setAmmo_amount(int a)
-{
-    ammo_amount=a;
-}
-
-void Gun::setFunctioning(int a)
-{
-    functioning=a;
-}
 
 Gun::Gun(int ammo, int t, int h, char p)
 {
@@ -50,10 +37,13 @@ int Gun::getFunctioning()
     return functioning;
 }
 
-int Gun::getHealth() {
-    return health;
-}
 
 void Gun::setOverheating_lvl(int a) {
     overheating_lvl=a;
+    if(ammo_amount>0&&overheating_lvl<100)
+        functioning=1;
+}
+
+void Gun::setAmmo(int a) {
+    ammo_amount=a;
 }

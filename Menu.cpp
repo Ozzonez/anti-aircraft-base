@@ -3,6 +3,7 @@
 #include "Manager.h"
 #include "Radar.h"
 #include "Recognition.h"
+#include "Test.h"
 
 using namespace std;
 
@@ -11,7 +12,8 @@ void Menu::menu()
     int a;
     Manager M;
     Radar R;
-while(a!=9)
+    Test T;
+while(a!=10)
 {
     cout<<"   Anti-aircraft system menu   "<<endl<<endl;
     cout << " 1 - load guns from txt file" << endl;
@@ -19,6 +21,10 @@ while(a!=9)
     cout << " 3 - reload all guns" << endl;
     cout << " 4 - initiate cooldown" << endl;
     cout << " 5 - start simulation" << endl;
+    cout << " 6 - check if base is well protected " << endl;
+    cout << " 7 - Test emergency shutdown " << endl;
+    cout << " 7 - Test rebooting" << endl;
+    cout << " 7 - " << endl;
     cin >> a;
     switch (a) {
         case 1: {
@@ -47,8 +53,25 @@ while(a!=9)
             R.Simulation(&M);
             break;
         }
+        case 6: {
+            M.checkIfWellProtected();
+            break;
+        }
+        case 7: {
+            T.TestEmergencyShutdown(&M);
+            break;
+        }
+        case 8: {
+            T.TestRebooting(&M);
+            break;
+        }
+        case 9: {
+            T.TestDangerRecognition(&M);
+            cout<<"DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD";
+            break;
+        }
         default: {
-            cout << "";
+            cout << "Incorrect number" << endl;
             break;
         }
     }

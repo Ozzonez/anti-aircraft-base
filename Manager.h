@@ -6,7 +6,7 @@
 
 using namespace std;
 
-//class responsible for holding all anti-aircraft guns
+//class responsible for holding all anti-aircraft guns in vector
 class Manager {
     vector<Gun*> guns;
 public:
@@ -14,6 +14,8 @@ public:
     int getSize();
     void loadGuns();
     void writeGuns();
+    int checkIfWellProtected();
+
 
     ~Manager();
 };

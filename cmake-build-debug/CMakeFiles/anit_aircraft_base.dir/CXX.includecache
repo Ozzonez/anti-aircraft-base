@@ -16,11 +16,37 @@ vector
 iostream
 -
 
-C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Recognition.cpp
+C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Menu.cpp
+iostream
+-
+Menu.h
+C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Menu.h
+Manager.h
+C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Manager.h
+Radar.h
+C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Radar.h
 Recognition.h
 C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Recognition.h
+Test.h
+C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Test.h
+
+C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Menu.h
+iostream
+-
+Manager.h
+C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Manager.h
+
+C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Radar.h
+Manager.h
+C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Manager.h
 
 C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Recognition.h
 Manager.h
 C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Manager.h
+
+C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Test.h
+Manager.h
+C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Manager.h
+Recognition.h
+C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Recognition.h
 

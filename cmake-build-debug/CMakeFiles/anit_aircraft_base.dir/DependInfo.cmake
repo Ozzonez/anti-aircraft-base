@@ -10,9 +10,10 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Gun.cpp" "C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/cmake-build-debug/CMakeFiles/anit_aircraft_base.dir/Gun.cpp.obj"
   "C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Manager.cpp" "C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/cmake-build-debug/CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj"
   "C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Menu.cpp" "C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/cmake-build-debug/CMakeFiles/anit_aircraft_base.dir/Menu.cpp.obj"
+  "C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Radar.cpp" "C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/cmake-build-debug/CMakeFiles/anit_aircraft_base.dir/Radar.cpp.obj"
   "C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Recognition.cpp" "C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/cmake-build-debug/CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.obj"
+  "C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Test.cpp" "C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/cmake-build-debug/CMakeFiles/anit_aircraft_base.dir/Test.cpp.obj"
   "C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/main.cpp" "C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/cmake-build-debug/CMakeFiles/anit_aircraft_base.dir/main.cpp.obj"
-  "C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/Radar.cpp" "C:/Users/recon/OneDrive/Pulpit/anti-aircraft-base/anit-aircraft-base/cmake-build-debug/CMakeFiles/anit_aircraft_base.dir/radar.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
