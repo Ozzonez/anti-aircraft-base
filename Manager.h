@@ -11,10 +11,11 @@ class Manager {
     vector<Gun*> guns;
 public:
     Gun* getGun(int);
-    int getSize();
     void loadGuns();
     void writeGuns();
     int checkIfWellProtected();
+
+    int getSize();
 
 
     ~Manager();

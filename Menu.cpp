@@ -13,7 +13,7 @@ void Menu::menu()
     Manager M;
     Radar R;
     Test T;
-while(a!=10)
+while(1)
 {
     cout<<"   Anti-aircraft system menu   "<<endl<<endl;
     cout << " 1 - load guns from txt file" << endl;
@@ -23,8 +23,9 @@ while(a!=10)
     cout << " 5 - start simulation" << endl;
     cout << " 6 - check if base is well protected " << endl;
     cout << " 7 - Test emergency shutdown " << endl;
-    cout << " 7 - Test rebooting" << endl;
-    cout << " 7 - " << endl;
+    cout << " 8 - Test rebooting" << endl;
+    cout << " 9 - Test Danger recognition system" << endl;
+    cout << " 10 - exit " << endl;
     cin >> a;
     switch (a) {
         case 1: {
@@ -67,7 +68,10 @@ while(a!=10)
         }
         case 9: {
             T.TestDangerRecognition(&M);
-            cout<<"DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD";
+            break;
+        }
+        case 10: {
+            exit(0);
             break;
         }
         default: {
