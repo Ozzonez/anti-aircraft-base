@@ -1,6 +1,12 @@
 #include <iostream>
-
-int main() {
-    std::cout << "Hello, World!" << std::endl;
+#include "Manager.h"
+#include "Radar.h"
+#include "Menu.h"
+using namespace std;
+int main()
+{
+    Menu M;
+    M.menu();
     return 0;
+
 }

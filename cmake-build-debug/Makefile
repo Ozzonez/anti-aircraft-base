@@ -122,6 +122,249 @@ anit_aircraft_base/fast:
 	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/build
 .PHONY : anit_aircraft_base/fast
 
+AA_35mm.obj: AA_35mm.cpp.obj
+
+.PHONY : AA_35mm.obj
+
+# target to build an object file
+AA_35mm.cpp.obj:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AA_35mm.cpp.obj
+.PHONY : AA_35mm.cpp.obj
+
+AA_35mm.i: AA_35mm.cpp.i
+
+.PHONY : AA_35mm.i
+
+# target to preprocess a source file
+AA_35mm.cpp.i:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AA_35mm.cpp.i
+.PHONY : AA_35mm.cpp.i
+
+AA_35mm.s: AA_35mm.cpp.s
+
+.PHONY : AA_35mm.s
+
+# target to generate assembly for a file
+AA_35mm.cpp.s:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AA_35mm.cpp.s
+.PHONY : AA_35mm.cpp.s
+
+AA_80mm.obj: AA_80mm.cpp.obj
+
+.PHONY : AA_80mm.obj
+
+# target to build an object file
+AA_80mm.cpp.obj:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AA_80mm.cpp.obj
+.PHONY : AA_80mm.cpp.obj
+
+AA_80mm.i: AA_80mm.cpp.i
+
+.PHONY : AA_80mm.i
+
+# target to preprocess a source file
+AA_80mm.cpp.i:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AA_80mm.cpp.i
+.PHONY : AA_80mm.cpp.i
+
+AA_80mm.s: AA_80mm.cpp.s
+
+.PHONY : AA_80mm.s
+
+# target to generate assembly for a file
+AA_80mm.cpp.s:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AA_80mm.cpp.s
+.PHONY : AA_80mm.cpp.s
+
+AM_Shield.obj: AM_Shield.cpp.obj
+
+.PHONY : AM_Shield.obj
+
+# target to build an object file
+AM_Shield.cpp.obj:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.obj
+.PHONY : AM_Shield.cpp.obj
+
+AM_Shield.i: AM_Shield.cpp.i
+
+.PHONY : AM_Shield.i
+
+# target to preprocess a source file
+AM_Shield.cpp.i:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.i
+.PHONY : AM_Shield.cpp.i
+
+AM_Shield.s: AM_Shield.cpp.s
+
+.PHONY : AM_Shield.s
+
+# target to generate assembly for a file
+AM_Shield.cpp.s:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.s
+.PHONY : AM_Shield.cpp.s
+
+Gun.obj: Gun.cpp.obj
+
+.PHONY : Gun.obj
+
+# target to build an object file
+Gun.cpp.obj:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Gun.cpp.obj
+.PHONY : Gun.cpp.obj
+
+Gun.i: Gun.cpp.i
+
+.PHONY : Gun.i
+
+# target to preprocess a source file
+Gun.cpp.i:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Gun.cpp.i
+.PHONY : Gun.cpp.i
+
+Gun.s: Gun.cpp.s
+
+.PHONY : Gun.s
+
+# target to generate assembly for a file
+Gun.cpp.s:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Gun.cpp.s
+.PHONY : Gun.cpp.s
+
+Manager.obj: Manager.cpp.obj
+
+.PHONY : Manager.obj
+
+# target to build an object file
+Manager.cpp.obj:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj
+.PHONY : Manager.cpp.obj
+
+Manager.i: Manager.cpp.i
+
+.PHONY : Manager.i
+
+# target to preprocess a source file
+Manager.cpp.i:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Manager.cpp.i
+.PHONY : Manager.cpp.i
+
+Manager.s: Manager.cpp.s
+
+.PHONY : Manager.s
+
+# target to generate assembly for a file
+Manager.cpp.s:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Manager.cpp.s
+.PHONY : Manager.cpp.s
+
+Menu.obj: Menu.cpp.obj
+
+.PHONY : Menu.obj
+
+# target to build an object file
+Menu.cpp.obj:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Menu.cpp.obj
+.PHONY : Menu.cpp.obj
+
+Menu.i: Menu.cpp.i
+
+.PHONY : Menu.i
+
+# target to preprocess a source file
+Menu.cpp.i:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Menu.cpp.i
+.PHONY : Menu.cpp.i
+
+Menu.s: Menu.cpp.s
+
+.PHONY : Menu.s
+
+# target to generate assembly for a file
+Menu.cpp.s:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Menu.cpp.s
+.PHONY : Menu.cpp.s
+
+Radar.obj: Radar.cpp.obj
+
+.PHONY : Radar.obj
+
+# target to build an object file
+Radar.cpp.obj:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Radar.cpp.obj
+.PHONY : Radar.cpp.obj
+
+Radar.i: Radar.cpp.i
+
+.PHONY : Radar.i
+
+# target to preprocess a source file
+Radar.cpp.i:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Radar.cpp.i
+.PHONY : Radar.cpp.i
+
+Radar.s: Radar.cpp.s
+
+.PHONY : Radar.s
+
+# target to generate assembly for a file
+Radar.cpp.s:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Radar.cpp.s
+.PHONY : Radar.cpp.s
+
+Recognition.obj: Recognition.cpp.obj
+
+.PHONY : Recognition.obj
+
+# target to build an object file
+Recognition.cpp.obj:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.obj
+.PHONY : Recognition.cpp.obj
+
+Recognition.i: Recognition.cpp.i
+
+.PHONY : Recognition.i
+
+# target to preprocess a source file
+Recognition.cpp.i:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.i
+.PHONY : Recognition.cpp.i
+
+Recognition.s: Recognition.cpp.s
+
+.PHONY : Recognition.s
+
+# target to generate assembly for a file
+Recognition.cpp.s:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.s
+.PHONY : Recognition.cpp.s
+
+Test.obj: Test.cpp.obj
+
+.PHONY : Test.obj
+
+# target to build an object file
+Test.cpp.obj:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Test.cpp.obj
+.PHONY : Test.cpp.obj
+
+Test.i: Test.cpp.i
+
+.PHONY : Test.i
+
+# target to preprocess a source file
+Test.cpp.i:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Test.cpp.i
+.PHONY : Test.cpp.i
+
+Test.s: Test.cpp.s
+
+.PHONY : Test.s
+
+# target to generate assembly for a file
+Test.cpp.s:
+	$(MAKE) -f CMakeFiles\anit_aircraft_base.dir\build.make CMakeFiles/anit_aircraft_base.dir/Test.cpp.s
+.PHONY : Test.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +401,33 @@ help:
 	@echo ... anit_aircraft_base
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... AA_35mm.obj
+	@echo ... AA_35mm.i
+	@echo ... AA_35mm.s
+	@echo ... AA_80mm.obj
+	@echo ... AA_80mm.i
+	@echo ... AA_80mm.s
+	@echo ... AM_Shield.obj
+	@echo ... AM_Shield.i
+	@echo ... AM_Shield.s
+	@echo ... Gun.obj
+	@echo ... Gun.i
+	@echo ... Gun.s
+	@echo ... Manager.obj
+	@echo ... Manager.i
+	@echo ... Manager.s
+	@echo ... Menu.obj
+	@echo ... Menu.i
+	@echo ... Menu.s
+	@echo ... Radar.obj
+	@echo ... Radar.i
+	@echo ... Radar.s
+	@echo ... Recognition.obj
+	@echo ... Recognition.i
+	@echo ... Recognition.s
+	@echo ... Test.obj
+	@echo ... Test.i
+	@echo ... Test.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

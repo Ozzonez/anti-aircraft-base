@@ -69,19 +69,154 @@ CMakeFiles/anit_aircraft_base.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/anit_aircraft_base.dir/main.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\main.cpp -o CMakeFiles\anit_aircraft_base.dir\main.cpp.s
 
+CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.obj: CMakeFiles/anit_aircraft_base.dir/flags.make
+CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.obj: ../AM_Shield.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\anit_aircraft_base.dir\AM_Shield.cpp.obj -c C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\AM_Shield.cpp
+
+CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\AM_Shield.cpp > CMakeFiles\anit_aircraft_base.dir\AM_Shield.cpp.i
+
+CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\AM_Shield.cpp -o CMakeFiles\anit_aircraft_base.dir\AM_Shield.cpp.s
+
+CMakeFiles/anit_aircraft_base.dir/AA_35mm.cpp.obj: CMakeFiles/anit_aircraft_base.dir/flags.make
+CMakeFiles/anit_aircraft_base.dir/AA_35mm.cpp.obj: ../AA_35mm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/anit_aircraft_base.dir/AA_35mm.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\anit_aircraft_base.dir\AA_35mm.cpp.obj -c C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\AA_35mm.cpp
+
+CMakeFiles/anit_aircraft_base.dir/AA_35mm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/anit_aircraft_base.dir/AA_35mm.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\AA_35mm.cpp > CMakeFiles\anit_aircraft_base.dir\AA_35mm.cpp.i
+
+CMakeFiles/anit_aircraft_base.dir/AA_35mm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/anit_aircraft_base.dir/AA_35mm.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\AA_35mm.cpp -o CMakeFiles\anit_aircraft_base.dir\AA_35mm.cpp.s
+
+CMakeFiles/anit_aircraft_base.dir/AA_80mm.cpp.obj: CMakeFiles/anit_aircraft_base.dir/flags.make
+CMakeFiles/anit_aircraft_base.dir/AA_80mm.cpp.obj: ../AA_80mm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/anit_aircraft_base.dir/AA_80mm.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\anit_aircraft_base.dir\AA_80mm.cpp.obj -c C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\AA_80mm.cpp
+
+CMakeFiles/anit_aircraft_base.dir/AA_80mm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/anit_aircraft_base.dir/AA_80mm.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\AA_80mm.cpp > CMakeFiles\anit_aircraft_base.dir\AA_80mm.cpp.i
+
+CMakeFiles/anit_aircraft_base.dir/AA_80mm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/anit_aircraft_base.dir/AA_80mm.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\AA_80mm.cpp -o CMakeFiles\anit_aircraft_base.dir\AA_80mm.cpp.s
+
+CMakeFiles/anit_aircraft_base.dir/Radar.cpp.obj: CMakeFiles/anit_aircraft_base.dir/flags.make
+CMakeFiles/anit_aircraft_base.dir/Radar.cpp.obj: ../Radar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/anit_aircraft_base.dir/Radar.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\anit_aircraft_base.dir\Radar.cpp.obj -c C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Radar.cpp
+
+CMakeFiles/anit_aircraft_base.dir/Radar.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/anit_aircraft_base.dir/Radar.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Radar.cpp > CMakeFiles\anit_aircraft_base.dir\Radar.cpp.i
+
+CMakeFiles/anit_aircraft_base.dir/Radar.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/anit_aircraft_base.dir/Radar.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Radar.cpp -o CMakeFiles\anit_aircraft_base.dir\Radar.cpp.s
+
+CMakeFiles/anit_aircraft_base.dir/Gun.cpp.obj: CMakeFiles/anit_aircraft_base.dir/flags.make
+CMakeFiles/anit_aircraft_base.dir/Gun.cpp.obj: ../Gun.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/anit_aircraft_base.dir/Gun.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\anit_aircraft_base.dir\Gun.cpp.obj -c C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Gun.cpp
+
+CMakeFiles/anit_aircraft_base.dir/Gun.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/anit_aircraft_base.dir/Gun.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Gun.cpp > CMakeFiles\anit_aircraft_base.dir\Gun.cpp.i
+
+CMakeFiles/anit_aircraft_base.dir/Gun.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/anit_aircraft_base.dir/Gun.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Gun.cpp -o CMakeFiles\anit_aircraft_base.dir\Gun.cpp.s
+
+CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj: CMakeFiles/anit_aircraft_base.dir/flags.make
+CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj: ../Manager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\anit_aircraft_base.dir\Manager.cpp.obj -c C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Manager.cpp
+
+CMakeFiles/anit_aircraft_base.dir/Manager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/anit_aircraft_base.dir/Manager.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Manager.cpp > CMakeFiles\anit_aircraft_base.dir\Manager.cpp.i
+
+CMakeFiles/anit_aircraft_base.dir/Manager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/anit_aircraft_base.dir/Manager.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Manager.cpp -o CMakeFiles\anit_aircraft_base.dir\Manager.cpp.s
+
+CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.obj: CMakeFiles/anit_aircraft_base.dir/flags.make
+CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.obj: ../Recognition.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\anit_aircraft_base.dir\Recognition.cpp.obj -c C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Recognition.cpp
+
+CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Recognition.cpp > CMakeFiles\anit_aircraft_base.dir\Recognition.cpp.i
+
+CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Recognition.cpp -o CMakeFiles\anit_aircraft_base.dir\Recognition.cpp.s
+
+CMakeFiles/anit_aircraft_base.dir/Menu.cpp.obj: CMakeFiles/anit_aircraft_base.dir/flags.make
+CMakeFiles/anit_aircraft_base.dir/Menu.cpp.obj: ../Menu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/anit_aircraft_base.dir/Menu.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\anit_aircraft_base.dir\Menu.cpp.obj -c C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Menu.cpp
+
+CMakeFiles/anit_aircraft_base.dir/Menu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/anit_aircraft_base.dir/Menu.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Menu.cpp > CMakeFiles\anit_aircraft_base.dir\Menu.cpp.i
+
+CMakeFiles/anit_aircraft_base.dir/Menu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/anit_aircraft_base.dir/Menu.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Menu.cpp -o CMakeFiles\anit_aircraft_base.dir\Menu.cpp.s
+
+CMakeFiles/anit_aircraft_base.dir/Test.cpp.obj: CMakeFiles/anit_aircraft_base.dir/flags.make
+CMakeFiles/anit_aircraft_base.dir/Test.cpp.obj: ../Test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/anit_aircraft_base.dir/Test.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\anit_aircraft_base.dir\Test.cpp.obj -c C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Test.cpp
+
+CMakeFiles/anit_aircraft_base.dir/Test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/anit_aircraft_base.dir/Test.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Test.cpp > CMakeFiles\anit_aircraft_base.dir\Test.cpp.i
+
+CMakeFiles/anit_aircraft_base.dir/Test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/anit_aircraft_base.dir/Test.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\Test.cpp -o CMakeFiles\anit_aircraft_base.dir\Test.cpp.s
+
 # Object files for target anit_aircraft_base
 anit_aircraft_base_OBJECTS = \
-"CMakeFiles/anit_aircraft_base.dir/main.cpp.obj"
+"CMakeFiles/anit_aircraft_base.dir/main.cpp.obj" \
+"CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.obj" \
+"CMakeFiles/anit_aircraft_base.dir/AA_35mm.cpp.obj" \
+"CMakeFiles/anit_aircraft_base.dir/AA_80mm.cpp.obj" \
+"CMakeFiles/anit_aircraft_base.dir/Radar.cpp.obj" \
+"CMakeFiles/anit_aircraft_base.dir/Gun.cpp.obj" \
+"CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj" \
+"CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.obj" \
+"CMakeFiles/anit_aircraft_base.dir/Menu.cpp.obj" \
+"CMakeFiles/anit_aircraft_base.dir/Test.cpp.obj"
 
 # External object files for target anit_aircraft_base
 anit_aircraft_base_EXTERNAL_OBJECTS =
 
 anit_aircraft_base.exe: CMakeFiles/anit_aircraft_base.dir/main.cpp.obj
+anit_aircraft_base.exe: CMakeFiles/anit_aircraft_base.dir/AM_Shield.cpp.obj
+anit_aircraft_base.exe: CMakeFiles/anit_aircraft_base.dir/AA_35mm.cpp.obj
+anit_aircraft_base.exe: CMakeFiles/anit_aircraft_base.dir/AA_80mm.cpp.obj
+anit_aircraft_base.exe: CMakeFiles/anit_aircraft_base.dir/Radar.cpp.obj
+anit_aircraft_base.exe: CMakeFiles/anit_aircraft_base.dir/Gun.cpp.obj
+anit_aircraft_base.exe: CMakeFiles/anit_aircraft_base.dir/Manager.cpp.obj
+anit_aircraft_base.exe: CMakeFiles/anit_aircraft_base.dir/Recognition.cpp.obj
+anit_aircraft_base.exe: CMakeFiles/anit_aircraft_base.dir/Menu.cpp.obj
+anit_aircraft_base.exe: CMakeFiles/anit_aircraft_base.dir/Test.cpp.obj
 anit_aircraft_base.exe: CMakeFiles/anit_aircraft_base.dir/build.make
 anit_aircraft_base.exe: CMakeFiles/anit_aircraft_base.dir/linklibs.rsp
 anit_aircraft_base.exe: CMakeFiles/anit_aircraft_base.dir/objects1.rsp
 anit_aircraft_base.exe: CMakeFiles/anit_aircraft_base.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable anit_aircraft_base.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\recon\OneDrive\Pulpit\anti-aircraft-base\anit-aircraft-base\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable anit_aircraft_base.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\anit_aircraft_base.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
