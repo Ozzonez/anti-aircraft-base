@@ -7,6 +7,18 @@ class Radar {
 
 public:
     void Simulation(Manager*);
+
+    /*
+     *
+     * bool isEnemyInRange();
+     * Position getEnemyPosition();
+     * float getEnemyDistance();
+     *
+     * if(enemy.isEnemyInRange())
+     *  manager.shootMissile(enemy);
+     *
+     *
+     */
 };
 
 

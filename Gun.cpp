@@ -25,9 +25,7 @@ int Gun::getOverheating_lvl()
 int Gun::getAmmo()
 {
     return ammo_amount;
-}
-
-int Gun::getType()
+}1
 {
     return type;
 }
